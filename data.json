@@ -1,0 +1,46 @@
+{
+  "basics":{
+    "photo":"123.jpg",
+"name":"prabhudeva",
+"email":"prabhumunna412@gmail.com",
+"mobile":"9553956104"
+},
+  "Education":[
+    {
+      "course":"B-tech(Computer Since Engneering)",
+      "college":[ "G.Pullaiah college of engneering",
+        "2016-2019",
+        "70%"
+      ]
+    },
+    {
+    "course":"diploma(Computer Since Engneering)",
+    "college":[ "Prasiddha college of engneering & tech",
+      "2013-2015",
+      "72%"
+]
+},
+{
+  "course":"ssc",
+  "college":[ "st'marys high schools",
+    "2012",
+    "75%"
+]
+}
+],
+"skills":[
+
+{
+    "name":"webtechnologies",
+    "value":"HTML,CSS"
+},
+{
+  "name":"operating systems",
+  "value":"Linux,windows"
+},
+{
+  "name":"Programing languages",
+  "value":"c,c++,java"
+}
+]
+}
